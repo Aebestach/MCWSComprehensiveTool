@@ -1,0 +1,77 @@
+{
+    "OPM": {
+        "Tekto": {
+            "Background": [
+                "Topography",
+                "Visual",
+                "Coastline",
+                "Mapless"
+            ],
+            "FirstDimension": {
+                "hlpr": 12,
+                "ua": 12
+            },
+            "SecondDimension": {
+                "hlpr": 11,
+                "ua": 10
+            },
+            "longitudeOffset": {
+                "hlpr": 180.0,
+                "ua": 180.0
+            },
+            "scaleFactor": {
+                "hlpr": 1.4,
+                "ua": 1.4
+            },
+            "modelTop": {
+                "hlpr": 32000.0,
+                "ua": 35000.0
+            },
+            "sizeAlt": {
+                "hlpr": 11.0,
+                "ua": 10.0
+            },
+            "data_types": [
+                "Pressure",
+                "Wind Speed",
+                "Wind Speed(Direction)"
+            ]
+        },
+        "Thatmo": {
+            "Background": [
+                "Topography",
+                "Visual",
+                "Mapless"
+            ],
+            "FirstDimension": {
+                "hlpr": 24,
+                "ua": 24
+            },
+            "SecondDimension": {
+                "hlpr": 11,
+                "ua": 10
+            },
+            "longitudeOffset": {
+                "hlpr": null,
+                "ua": null
+            },
+            "scaleFactor": {
+                "hlpr": 1.45,
+                "ua": 1.45
+            },
+            "modelTop": {
+                "hlpr": 22000.0,
+                "ua": 22000.0
+            },
+            "sizeAlt": {
+                "hlpr": 11.0,
+                "ua": 10.0
+            },
+            "data_types": [
+                "Pressure",
+                "Wind Speed",
+                "Wind Speed(Direction)"
+            ]
+        }
+    }
+}

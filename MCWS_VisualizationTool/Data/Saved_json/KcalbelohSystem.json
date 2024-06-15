@@ -1,0 +1,134 @@
+{
+    "KcalbelohSystem": {
+        "Mehtna": {
+            "Background": [
+                "Topography",
+                "Visual",
+                "Mapless"
+            ],
+            "FirstDimension": {
+                "hlpr": 24,
+                "ta": 24,
+                "ua": 24
+            },
+            "SecondDimension": {
+                "hlpr": 11,
+                "ta": 10,
+                "ua": 10
+            },
+            "longitudeOffset": {
+                "hlpr": 180.0,
+                "ta": 180.0,
+                "ua": 180.0
+            },
+            "scaleFactor": {
+                "hlpr": 1.45,
+                "ta": 1.45,
+                "ua": 1.45
+            },
+            "modelTop": {
+                "hlpr": 33500.0,
+                "ta": 33500.0,
+                "ua": 33500.0
+            },
+            "sizeAlt": {
+                "hlpr": 11.0,
+                "ta": 10.0,
+                "ua": 10.0
+            },
+            "data_types": [
+                "Temperature",
+                "Pressure",
+                "Wind Speed",
+                "Wind Speed(Direction)"
+            ]
+        },
+        "Rouqea": {
+            "Background": [
+                "Topography",
+                "Visual",
+                "Mapless"
+            ],
+            "FirstDimension": {
+                "hlpr": 24,
+                "ta": 24,
+                "ua": 24
+            },
+            "SecondDimension": {
+                "hlpr": 11,
+                "ta": 10,
+                "ua": 10
+            },
+            "longitudeOffset": {
+                "hlpr": 233.6,
+                "ta": 233.6,
+                "ua": 233.6
+            },
+            "scaleFactor": {
+                "hlpr": 1.4,
+                "ta": 1.4,
+                "ua": 1.4
+            },
+            "modelTop": {
+                "hlpr": 23000.0,
+                "ta": 60000.0,
+                "ua": 23000.0
+            },
+            "sizeAlt": {
+                "hlpr": 11.0,
+                "ta": 10.0,
+                "ua": 10.0
+            },
+            "data_types": [
+                "Temperature",
+                "Pressure",
+                "Wind Speed",
+                "Wind Speed(Direction)"
+            ]
+        },
+        "Suluco": {
+            "Background": [
+                "Topography",
+                "Visual",
+                "Coastline",
+                "Mapless"
+            ],
+            "FirstDimension": {
+                "hlpr": 24,
+                "ta": 24,
+                "ua": 24
+            },
+            "SecondDimension": {
+                "hlpr": 11,
+                "ta": 10,
+                "ua": 10
+            },
+            "longitudeOffset": {
+                "hlpr": 180.0,
+                "ta": 180.0,
+                "ua": 180.0
+            },
+            "scaleFactor": {
+                "hlpr": 1.6,
+                "ta": 1.6,
+                "ua": 1.6
+            },
+            "modelTop": {
+                "hlpr": 23000.0,
+                "ta": 26000.0,
+                "ua": 26000.0
+            },
+            "sizeAlt": {
+                "hlpr": 11.0,
+                "ta": 10.0,
+                "ua": 10.0
+            },
+            "data_types": [
+                "Temperature",
+                "Pressure",
+                "Wind Speed",
+                "Wind Speed(Direction)"
+            ]
+        }
+    }
+}

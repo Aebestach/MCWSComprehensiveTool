@@ -1,0 +1,172 @@
+{
+    "Stock": {
+        "Duna": {
+            "Background": [
+                "Topography",
+                "Visual",
+                "Mapless"
+            ],
+            "FirstDimension": {
+                "hlpr": 24,
+                "ta": 24,
+                "ua": 24
+            },
+            "SecondDimension": {
+                "hlpr": 7,
+                "ta": 6,
+                "ua": 6
+            },
+            "longitudeOffset": {
+                "hlpr": 180.0,
+                "ta": 180.0,
+                "ua": 180.0
+            },
+            "scaleFactor": {
+                "hlpr": 1.6,
+                "ta": 1.5,
+                "ua": 1.5
+            },
+            "modelTop": {
+                "hlpr": 21000.0,
+                "ta": 22000.0,
+                "ua": 22000.0
+            },
+            "sizeAlt": {
+                "hlpr": 7.0,
+                "ta": 6.0,
+                "ua": 6.0
+            },
+            "data_types": [
+                "Temperature",
+                "Pressure",
+                "Wind Speed",
+                "Wind Speed(Direction)"
+            ]
+        },
+        "Eve": {
+            "Background": [
+                "Topography",
+                "Visual",
+                "Coastline",
+                "Mapless"
+            ],
+            "FirstDimension": {
+                "hlpr": 24,
+                "ua": 24
+            },
+            "SecondDimension": {
+                "hlpr": 11,
+                "ua": 10
+            },
+            "longitudeOffset": {
+                "hlpr": 180.0,
+                "ua": 180.0
+            },
+            "scaleFactor": {
+                "hlpr": 1.35,
+                "ua": 1.9
+            },
+            "modelTop": {
+                "hlpr": 29000.0,
+                "ua": 30000.0
+            },
+            "sizeAlt": {
+                "hlpr": 11.0,
+                "ua": 10.0
+            },
+            "data_types": [
+                "Pressure",
+                "Wind Speed",
+                "Wind Speed(Direction)"
+            ]
+        },
+        "Kerbin": {
+            "Background": [
+                "Topography",
+                "Visual",
+                "Coastline",
+                "Mapless"
+            ],
+            "FirstDimension": {
+                "hlpr": 24,
+                "ta": 24,
+                "ua": 24
+            },
+            "SecondDimension": {
+                "hlpr": 11,
+                "ta": 10,
+                "ua": 10
+            },
+            "longitudeOffset": {
+                "hlpr": 180.0,
+                "ta": 180.0,
+                "ua": 180.0
+            },
+            "scaleFactor": {
+                "hlpr": 1.35,
+                "ta": 1.375,
+                "ua": 1.375
+            },
+            "modelTop": {
+                "hlpr": 23000.0,
+                "ta": 28000.0,
+                "ua": 28000.0
+            },
+            "sizeAlt": {
+                "hlpr": 11.0,
+                "ta": 10.0,
+                "ua": 10.0
+            },
+            "data_types": [
+                "Temperature",
+                "Pressure",
+                "Wind Speed",
+                "Wind Speed(Direction)"
+            ]
+        },
+        "Laythe": {
+            "Background": [
+                "Topography",
+                "Visual",
+                "Coastline",
+                "Mapless"
+            ],
+            "FirstDimension": {
+                "hlpr": 24,
+                "ta": 24,
+                "ua": 24
+            },
+            "SecondDimension": {
+                "hlpr": 11,
+                "ta": 10,
+                "ua": 10
+            },
+            "longitudeOffset": {
+                "hlpr": 180.0,
+                "ta": 180.0,
+                "ua": 180.0
+            },
+            "scaleFactor": {
+                "hlpr": 1.6,
+                "ta": 1.5,
+                "ua": 1.5
+            },
+            "modelTop": {
+                "hlpr": 31250.0,
+                "ta": 33000.0,
+                "ua": 33000.0
+            },
+            "sizeAlt": {
+                "hlpr": 11.0,
+                "ta": 10.0,
+                "ua": 10.0
+            },
+            "data_types": [
+                "Temperature",
+                "Pressure",
+                "Wind Speed",
+                "Wind Speed(Direction)"
+            ]
+        }
+    }
+}
